@@ -37,4 +37,13 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## TABULATION
+<img width="1051" height="1439" alt="image" src="https://github.com/user-attachments/assets/dba38a62-fec8-4909-8d51-4166c745ac18" />
+## CALCULATION
+<img width="1031" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8a70a29-a2bd-46d4-9ba6-50380b071832" />
+## OUTPUT
+<img width="809" height="628" alt="image" src="https://github.com/user-attachments/assets/4bfdd026-128f-4728-bb35-bbc138d2268b" />
+<img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/9daf519b-811c-47fc-8257-c113c4bedf70" />
+<img width="821" height="627" alt="image" src="https://github.com/user-attachments/assets/2eca958c-823a-4591-9019-cbec8560b087" />
+## RESULT
+Thus, the maximum range of radar system using radar range equation is verified.
